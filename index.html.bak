@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-eqiv="X-UA-Compatible" contents="IF=edge">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>persanal portfolio website</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body background="D:\portfolio_sahana\j.jpg";>
+<div  class="hero">
+<nav>
+<ul>
+<li><a href="education1.html">EDUCATION DETAILS</a></li>
+<li><a href="skills.html">SKILLS</a></li>
+<li><a href="phone.html">CONTACT AND DECLARATION</a></li>
+
+</nav>
+<div class="detel">
+<h3>Hi, My Name is</h3></br>
+<h1><p style="color:pink">SAHANA HS</p></h1>
+<p>Welcome to my interface. </br>I'm a post graduate student in Computer Applications. </p>
+<a href="D:\portfolio_sahana\Sahana HS...pdf">DOWNLOAD RESUME</a>
+</div>
+<div class="images">
+<img src="D:\portfolio_sahana\IMG_20220908_195538.jpg" class="girl">
+</div>
+</div>
+</body>
+</html>
